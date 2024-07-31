@@ -1,6 +1,6 @@
 # SCom
 
-⚠️ **Work-in-Progress**
+⚠️ **Abandoned, in favour of [Ccomp](https://github.com/pooladkhay/Ccomp)**
 
 An Incrementally-implemented Scheme Compiler
 
